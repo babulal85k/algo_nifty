@@ -1,0 +1,13 @@
+# Core
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# Data handling
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Upstox API
+upstox-api>=2.0.0
+
+# Date & time utilities
+pytz>=2023.3
