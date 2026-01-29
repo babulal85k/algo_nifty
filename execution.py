@@ -5,7 +5,7 @@ from paper_wallet import open_trade
 
 import config
 from paper_wallet import open_trade
-from upstox_client import get_option_ltp
+from upstox_api_client import get_option_ltp
 
 def execute_option_trade(option_key, qty):
     price = get_option_ltp(option_key)

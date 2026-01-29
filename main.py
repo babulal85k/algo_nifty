@@ -9,7 +9,7 @@ from option_utils import select_option, build_option_key
 from execution import execute_option_trade
 from paper_wallet import check_exit, open_trade_data
 from paper_wallet import is_daily_loss_locked
-from upstox_client import get_option_ltp
+from upstox_api_client import get_option_ltp
 from config import CAPITAL, RISK_PER_TRADE, MAX_TRADES_PER_DAY
 
 trades_today = 0
