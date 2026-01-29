@@ -224,3 +224,26 @@ Paper trading is not a demo — it’s validation.
 ✔ Risk controlled
 ✔ Ready for long-term testing
 
+MAKE IT EXECUTABLE
+On VPS:
+
+chmod +x setup_and_run.sh
+./setup_and_run.sh
+
+
+🧠 HOW TO RUN ALGO IN BACKGROUND (IMPORTANT)
+Use tmux (recommended)
+Copy code
+Bash
+tmux new -s nifty
+source venv/bin/activate
+python main.py
+Detach:
+Copy code
+
+Ctrl + B → D
+Reattach later:
+Copy code
+Bash
+tmux attach -t nifty
+
