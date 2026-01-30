@@ -1,74 +1,167 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>NIFTY Options Algo Dashboard</title>
+  <meta charset="UTF-8" />
+  <title>NIFTY Algo Dashboard</title>
+
+  <script src="https://unpkg.com/lightweight-charts/dist/lightweight-charts.standalone.production.js"></script>
+
   <style>
     body {
-      font-family: Arial;
+      margin: 0;
       background: #0f172a;
       color: #e5e7eb;
-      padding: 20px;
+      font-family: Arial, sans-serif;
     }
-    .card {
-      background: #1e293b;
-      padding: 16px;
-      border-radius: 8px;
-      margin-bottom: 12px;
+    header {
+      padding: 10px 16px;
+      background: #020617;
+      border-bottom: 1px solid #1e293b;
     }
-    .label {
-      color: #94a3b8;
+    #status {
       font-size: 14px;
     }
-    .value {
-      font-size: 20px;
-      font-weight: bold;
+    #chart {
+      height: 520px;
     }
   </style>
 </head>
 <body>
 
-<h1>📊 NIFTY Options Algo</h1>
+<header>
+  <div id="status">Connecting…</div>
+</header>
 
-<div class="card">
-  <div class="label">Status</div>
-  <div class="value" id="status">--</div>
-</div>
-
-<div class="card">
-  <div class="label">Trades Today</div>
-  <div class="value" id="trades">--</div>
-</div>
-
-<div class="card">
-  <div class="label">Open Trade</div>
-  <pre id="trade">--</pre>
-</div>
-
-<div class="card">
-  <div class="label">Last Update</div>
-  <div class="value" id="update">--</div>
-</div>
+<div id="chart"></div>
 
 <script>
-async function refresh() {
+/* =========================
+   CHART INIT (v4 SAFE)
+========================= */
+const chart = LightweightCharts.createChart(
+  document.getElementById("chart"),
+  {
+    layout: {
+      background: { color: "#0f172a" },
+      textColor: "#cbd5f5",
+    },
+    grid: {
+      vertLines: { color: "#1e293b" },
+      horzLines: { color: "#1e293b" },
+    },
+    timeScale: {
+      timeVisible: true,
+      secondsVisible: false,
+    },
+  }
+);
+
+const candleSeries = chart.addSeries(
+  LightweightCharts.CandlestickSeries
+);
+
+const entryLine = chart.addSeries(LightweightCharts.LineSeries, {
+  color: "#22c55e",
+  lineWidth: 2,
+});
+
+const slLine = chart.addSeries(LightweightCharts.LineSeries, {
+  color: "#ef4444",
+  lineWidth: 2,
+});
+
+const targetLine = chart.addSeries(LightweightCharts.LineSeries, {
+  color: "#eab308",
+  lineWidth: 2,
+});
+
+let candleCache = [];
+
+/* =========================
+   SAFE HELPERS
+========================= */
+function drawHorizontal(series, price) {
+  if (
+    price === null ||
+    price === undefined ||
+    !isFinite(price) ||
+    candleCache.length < 2
+  ) {
+    series.setData([]);
+    return;
+  }
+
+  const first = candleCache[0].time;
+  const last = candleCache[candleCache.length - 1].time;
+
+  series.setData([
+    { time: first, value: Number(price) },
+    { time: last, value: Number(price) },
+  ]);
+}
+
+/* =========================
+   LOAD CANDLES
+========================= */
+async function loadCandles() {
   try {
-    const res = await fetch("http://127.0.0.1:8000/status");
+    const res = await fetch("http://127.0.0.1:8000/candles");
     const data = await res.json();
 
-    document.getElementById("status").innerText = data.status ?? "--";
-    document.getElementById("trades").innerText = data.trades_today ?? 0;
-    document.getElementById("trade").innerText =
-      JSON.stringify(data.open_trade, null, 2) ?? "--";
-    document.getElementById("update").innerText =
-      data.last_update ?? "--";
+    if (!Array.isArray(data) || data.length === 0) return;
 
+    const clean = data
+      .filter(c =>
+        c.time &&
+        isFinite(c.open) &&
+        isFinite(c.high) &&
+        isFinite(c.low) &&
+        isFinite(c.close)
+      )
+      .sort((a, b) => a.time - b.time);
+
+    candleCache = clean;
+    candleSeries.setData(clean);
   } catch (e) {
-    document.getElementById("status").innerText = "API ERROR";
+    console.error("Candle error:", e);
   }
 }
 
-setInterval(refresh, 3000);
+/* =========================
+   LOAD STATUS
+========================= */
+async function loadStatus() {
+  try {
+    const res = await fetch("http://127.0.0.1:8000/status");
+    const s = await res.json();
+
+    document.getElementById("status").innerHTML =
+      `Status: <b>${s.status}</b> | Trades Today: ${s.trades_today}`;
+
+    if (s.open_trade && candleCache.length) {
+      drawHorizontal(entryLine, s.open_trade.entry);
+      drawHorizontal(slLine, s.open_trade.sl);
+      drawHorizontal(targetLine, s.open_trade.target);
+    } else {
+      entryLine.setData([]);
+      slLine.setData([]);
+      targetLine.setData([]);
+    }
+  } catch (e) {
+    console.error("Status error:", e);
+  }
+}
+
+/* =========================
+   REFRESH LOOP
+========================= */
+async function refresh() {
+  await loadCandles();
+  await loadStatus();
+}
+
 refresh();
+setInterval(refresh, 5000);
 </script>
 
 </body>

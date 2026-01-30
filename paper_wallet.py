@@ -2,7 +2,6 @@ import datetime
 import config
 from notifier import send
 
-# ===== PAPER STATE =====
 balance = config.VIRTUAL_CAPITAL
 open_trade_data = None
 
@@ -27,15 +26,8 @@ def reset_day_if_needed():
 
 
 def is_daily_loss_locked():
-    """
-    Returns True if daily loss limit breached
-    """
     max_loss = config.CAPITAL * config.DAILY_MAX_LOSS
-
-    if daily_pnl <= -max_loss:
-        return True
-
-    return False
+    return daily_pnl <= -max_loss
 
 
 def open_trade(option_key, entry_price, qty, sl, target):
@@ -54,7 +46,7 @@ def open_trade(option_key, entry_price, qty, sl, target):
         "entry": entry_price,
         "qty": qty,
         "sl": sl,
-        "target": target
+        "target": target,
     }
 
     send(
@@ -66,6 +58,7 @@ def open_trade(option_key, entry_price, qty, sl, target):
 
 def check_exit(current_price):
     global open_trade_data, balance, daily_pnl
+    global winning_trades, losing_trades
 
     if not open_trade_data:
         return False
@@ -73,41 +66,17 @@ def check_exit(current_price):
     entry = open_trade_data["entry"]
     qty = open_trade_data["qty"]
 
-    # Stop-loss hit
     if current_price <= open_trade_data["sl"]:
         pnl = (current_price - entry) * qty
         _exit_trade(current_price, pnl, "SL")
         return True
 
-    # Target hit
     if current_price >= open_trade_data["target"]:
         pnl = (current_price - entry) * qty
         _exit_trade(current_price, pnl, "TARGET")
         return True
 
     return False
-
-def send_daily_summary():
-    total_trades = winning_trades + losing_trades
-    max_loss = config.CAPITAL * config.DAILY_MAX_LOSS
-
-    status = "✅ Within Risk"
-    if daily_pnl <= -max_loss:
-        status = "🛑 Daily loss limit hit"
-
-    summary = (
-        "📊 DAILY TRADING SUMMARY (PAPER)\n\n"
-        f"Date: {datetime.date.today()}\n"
-        f"Trades Taken: {total_trades}\n"
-        f"Winning Trades: {winning_trades}\n"
-        f"Losing Trades: {losing_trades}\n\n"
-        f"Daily PnL: ₹{daily_pnl:.2f}\n"
-        f"Max Loss Limit: ₹{max_loss:.2f}\n"
-        f"Status: {status}\n\n"
-        f"Virtual Balance: ₹{balance:.2f}"
-    )
-
-    send(summary)
 
 
 def _exit_trade(exit_price, pnl, reason):

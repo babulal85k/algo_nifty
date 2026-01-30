@@ -39,7 +39,7 @@ WINDOW_2_START = datetime.time(13, 45)
 WINDOW_2_END   = datetime.time(14, 30)
 
 # ===== SCHEDULER =====
-CHECK_INTERVAL_SECONDS = 60
+CHECK_INTERVAL_SECONDS = 30
 
 # ===== FORCE EXIT =====
 FORCE_EXIT = datetime.time(15, 15)
@@ -49,3 +49,7 @@ MIN_CANDLE_RANGE = 15
 VOL_LOOKBACK = 10
 VOL_MULTIPLIER = 1.2
 MIN_BODY_PERCENT = 0.6
+
+
+TRADE_START = datetime.time(9, 20)   # Market entry allowed from 9:20 AM
+FORCE_EXIT  = datetime.time(15, 15)  # Force stop at 3:15 PM
