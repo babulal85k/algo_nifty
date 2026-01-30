@@ -39,7 +39,7 @@ WINDOW_2_START = datetime.time(13, 45)
 WINDOW_2_END   = datetime.time(14, 30)
 
 # ===== SCHEDULER =====
-CHECK_INTERVAL_SECONDS = 300
+CHECK_INTERVAL_SECONDS = 60
 
 # ===== FORCE EXIT =====
 FORCE_EXIT = datetime.time(15, 15)

@@ -11,6 +11,14 @@ from paper_wallet import check_exit, open_trade_data
 from paper_wallet import is_daily_loss_locked
 from upstox_api_client import get_option_ltp
 from config import CAPITAL, RISK_PER_TRADE, MAX_TRADES_PER_DAY
+import json
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+STATE_FILE = os.path.join(BASE_DIR, "runtime_state.json")
+
+def write_state(state):
+    state["last_update"] = datetime.datetime.now().isoformat()
+    with open(STATE_FILE, "w") as f:
+        json.dump(state, f, indent=2)
 
 trades_today = 0
 current_day = datetime.date.today()
@@ -32,10 +40,17 @@ def run():
     send("🔥 NIFTY OPTIONS ALGO STARTED (PAPER TRADING)")
 
     while True:
+        print(f"🕒 {datetime.datetime.now().strftime('%H:%M:%S')} | Checking market...")
         # 🛑 Emergency stop
         if os.path.exists("STOP"):
             send("🛑 STOP file detected. Exiting.")
             break
+
+        write_state({
+            "status": "RUNNING",
+            "trades_today": trades_today,
+            "open_trade": open_trade_data,
+        })
 
         reset_day()
         status = market_time_status()
@@ -43,6 +58,8 @@ def run():
         if status == "MARKET_CLOSED":
             send("📴 Market closed. Options algo stopped.")
             break
+
+        
 
         # 🔍 EXIT CHECK (VERY IMPORTANT)
         if open_trade_data:
@@ -63,9 +80,15 @@ def run():
 
         # 📊 Get market data
         df = get_index_candles()
+        if df is None:
+            wait_till_next_check()
+            continue
 
         option = select_option(df, config)
+
         if not option:
+            print("ℹ️ No valid setup found")
+            send("ℹ️ No valid setup found")
             wait_till_next_check()
             continue
 

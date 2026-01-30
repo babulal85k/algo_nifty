@@ -28,4 +28,4 @@ def market_time_status():
 
 
 def wait_till_next_check():
-    time.sleep(300)  # 5 minutes
+    time.sleep(60)  # 5 minutes

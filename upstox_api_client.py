@@ -26,23 +26,21 @@ history_api = upstox_client.HistoryApi(api_client)
 # =====================================================
 # 📊 GET INDEX CANDLES (REAL DATA)
 # =====================================================
-def get_candles(instrument_key, interval="5minute"):
-    to_date = datetime.datetime.now()
-    from_date = to_date - datetime.timedelta(minutes=300)
+def get_candles(instrument_key, interval="1minute"):
+    to_date = datetime.datetime.now().strftime("%Y-%m-%d")
 
     try:
         response = history_api.get_historical_candle_data(
-            instrument_key=instrument_key,
-            interval=interval,
-            from_date=from_date.strftime("%Y-%m-%d"),
-            to_date=to_date.strftime("%Y-%m-%d")
+            instrument_key,
+            interval,
+            to_date,
+            "2.0"     # api_version
         )
         return response.data.candles
+
     except ApiException as e:
         print("❌ Candle fetch error:", e)
         return []
-
-
 # =====================================================
 # 💰 GET OPTION LTP (REAL PRICE)
 # =====================================================
