@@ -1274,3 +1274,9 @@
 [2026-01-30 15:07:50] [INFO] [DATA] ✔ PASS: Index candles available
     DATA: {'rows': 7875}
 [2026-01-30 15:07:50] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 15:08:20] [INFO] [LOOP] New loop iteration started
+[2026-01-30 15:08:20] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 15:08:21] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 15:08:21] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found

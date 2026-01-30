@@ -850,3 +850,7 @@
 {"time": "2026-01-30 15:07:49", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
 {"time": "2026-01-30 15:07:50", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
 {"time": "2026-01-30 15:07:50", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 15:08:20", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 15:08:20", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 15:08:21", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 15:08:21", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
