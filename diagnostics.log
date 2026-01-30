@@ -1,0 +1,1276 @@
+[2026-01-30 13:17:15] [INFO] [START] Algo started in PAPER mode
+[2026-01-30 13:17:15] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:17:15] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:17:16] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:17:16] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:17:46] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:17:46] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:17:46] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:17:46] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:18:16] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:18:16] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:18:17] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:18:17] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:18:47] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:18:47] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:18:47] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:18:47] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:19:17] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:19:17] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:19:17] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:19:17] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:19:47] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:19:47] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:19:47] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:19:47] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:20:17] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:20:17] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:20:17] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:20:17] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:20:47] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:20:47] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:20:48] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:20:48] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:21:18] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:21:18] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:21:18] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:21:18] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:21:48] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:21:48] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:21:48] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:21:48] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:22:15] [INFO] [START] Algo started in PAPER mode
+[2026-01-30 13:22:15] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:22:15] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:22:16] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 8250}
+[2026-01-30 13:22:16] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:22:46] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:22:46] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:22:46] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 8250}
+[2026-01-30 13:22:46] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:23:16] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:23:16] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:23:17] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 8250}
+[2026-01-30 13:23:17] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:23:47] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:23:47] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:23:47] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 8250}
+[2026-01-30 13:23:47] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:24:17] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:24:17] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:24:17] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 8250}
+[2026-01-30 13:24:17] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:24:47] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:24:47] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:24:47] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 8250}
+[2026-01-30 13:24:47] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:25:17] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:25:17] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:25:17] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 8250}
+[2026-01-30 13:25:17] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:25:47] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:25:47] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:25:48] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 8250}
+[2026-01-30 13:25:48] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:26:18] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:26:18] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:26:18] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 8250}
+[2026-01-30 13:26:18] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:26:48] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:26:48] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:26:48] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 8250}
+[2026-01-30 13:26:49] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:27:19] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:27:19] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:27:19] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 8250}
+[2026-01-30 13:27:19] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:28:56] [INFO] [START] Algo started in PAPER mode
+[2026-01-30 13:28:56] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:28:56] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:28:57] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:28:57] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:29:27] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:29:27] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:29:27] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:29:27] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:29:57] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:29:57] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:29:58] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:29:58] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:30:28] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:30:28] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:30:28] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:30:28] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:33:27] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:33:27] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:33:28] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:33:28] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:33:58] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:33:58] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:33:58] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:33:58] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:34:28] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:34:28] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:34:28] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:34:28] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:34:58] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:34:58] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:34:59] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:34:59] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:35:29] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:35:29] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:35:29] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:35:29] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:35:59] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:35:59] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:36:00] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:36:00] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:36:30] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:36:30] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:36:31] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:36:31] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:37:01] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:37:01] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:37:01] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:37:01] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:37:31] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:37:31] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:37:31] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:37:31] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:38:01] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:38:01] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:38:02] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:38:02] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:38:32] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:38:32] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:38:32] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:38:32] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:39:02] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:39:02] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:39:03] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:39:03] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:39:33] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:39:33] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:39:34] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:39:34] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:40:04] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:40:04] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:40:04] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:40:04] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:40:34] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:40:34] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:40:35] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:40:35] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:41:05] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:41:05] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:41:05] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:41:05] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:41:35] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:41:35] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:41:36] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:41:36] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:42:06] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:42:06] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:42:06] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:42:06] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:42:36] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:42:36] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:42:37] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:42:37] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:43:07] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:43:07] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:43:08] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:43:08] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:43:38] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:43:38] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:43:38] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:43:38] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:44:08] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:44:08] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:44:09] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:44:09] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:44:39] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:44:39] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:44:39] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:44:39] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:45:09] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:45:09] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:45:09] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:45:09] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:45:39] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:45:39] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:45:40] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:45:40] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:46:10] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:46:10] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:46:10] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:46:10] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:46:40] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:46:40] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:46:41] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:46:41] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:47:11] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:47:11] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:47:12] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:47:12] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:47:42] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:47:42] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:47:42] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:47:42] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:48:12] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:48:12] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:48:13] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:48:13] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:48:43] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:48:43] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:48:43] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:48:43] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:49:13] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:49:13] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:49:14] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:49:14] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:49:44] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:49:44] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:49:44] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:49:44] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:50:14] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:50:14] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:50:15] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:50:15] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:50:45] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:50:45] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:50:45] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:50:45] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:51:15] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:51:15] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:51:16] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:51:16] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:51:46] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:51:46] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:51:47] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:51:47] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:52:17] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:52:17] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:52:17] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:52:17] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:52:47] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:52:47] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:52:47] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:52:47] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:53:17] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:53:17] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:53:18] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:53:18] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:53:48] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:53:48] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:53:49] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:53:49] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:54:19] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:54:19] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:54:19] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:54:19] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:54:49] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:54:49] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:54:49] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:54:49] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:55:19] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:55:19] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:55:20] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:55:20] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:55:50] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:55:50] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:55:50] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:55:50] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:56:20] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:56:20] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:56:21] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:56:21] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:56:51] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:56:51] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:56:51] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:56:51] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:57:21] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:57:21] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:57:21] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:57:21] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:57:51] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:57:51] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:57:52] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:57:52] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:58:22] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:58:22] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:58:22] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:58:22] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:58:52] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:58:52] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:58:53] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:58:53] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:59:23] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:59:23] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:59:23] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:59:23] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 13:59:53] [INFO] [LOOP] New loop iteration started
+[2026-01-30 13:59:53] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 13:59:54] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 13:59:54] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:00:24] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:00:24] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:00:24] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:00:24] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:00:54] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:00:54] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:00:55] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:00:55] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:01:25] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:01:25] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:01:25] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:01:25] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:01:55] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:01:55] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:01:55] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:01:55] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:02:25] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:02:25] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:02:26] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:02:26] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:02:56] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:02:56] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:02:56] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:02:56] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:03:26] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:03:26] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:03:27] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:03:27] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:03:57] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:03:57] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:03:58] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:03:58] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:04:28] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:04:28] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:04:28] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:04:28] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:04:58] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:04:58] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:04:59] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:04:59] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:05:29] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:05:29] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:05:29] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:05:29] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:05:59] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:05:59] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:06:00] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:06:00] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:06:30] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:06:30] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:06:31] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:06:31] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:07:01] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:07:01] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:07:01] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:07:01] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:07:31] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:07:31] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:07:32] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:07:32] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:08:02] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:08:02] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:08:02] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:08:02] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:08:32] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:08:32] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:08:32] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:08:32] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:09:02] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:09:02] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:09:03] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:09:03] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:09:33] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:09:33] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:09:33] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:09:33] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:10:03] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:10:03] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:10:03] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:10:03] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:10:33] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:10:33] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:10:34] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:10:34] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:11:04] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:11:04] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:11:04] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:11:04] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:11:34] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:11:34] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:11:35] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:11:35] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:12:05] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:12:05] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:12:05] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:12:05] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:12:35] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:12:35] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:12:36] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:12:36] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:13:06] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:13:06] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:13:06] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:13:06] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:13:36] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:13:36] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:13:37] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:13:37] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:14:07] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:14:07] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:14:07] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:14:07] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:14:37] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:14:37] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:14:37] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:14:37] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:15:07] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:15:07] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:15:08] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:15:08] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:15:38] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:15:38] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:15:38] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:15:38] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:16:08] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:16:08] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:16:08] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:16:08] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:16:38] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:16:38] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:16:39] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:16:39] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:17:09] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:17:09] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:17:09] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:17:09] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:17:39] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:17:39] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:17:40] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:17:40] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:18:10] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:18:10] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:18:10] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:18:10] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:18:40] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:18:40] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:18:40] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:18:40] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:19:10] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:19:10] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:19:11] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:19:11] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:19:41] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:19:41] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:19:42] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:19:42] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:20:12] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:20:12] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:20:12] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:20:12] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:20:42] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:20:42] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:20:43] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:20:43] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:21:13] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:21:13] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:21:13] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:21:13] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:21:43] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:21:43] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:21:43] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:21:43] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:22:13] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:22:13] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:22:14] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:22:14] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:22:44] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:22:44] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:22:44] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:22:44] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:23:14] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:23:14] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:23:15] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:23:15] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:23:45] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:23:45] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:23:45] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:23:45] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:24:15] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:24:15] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:24:16] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:24:16] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:24:46] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:24:46] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:24:46] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:24:46] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:25:16] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:25:16] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:25:17] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:25:17] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:25:47] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:25:47] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:25:47] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:25:47] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:26:17] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:26:17] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:26:18] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:26:18] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:26:48] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:26:48] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:26:48] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:26:48] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:27:18] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:27:18] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:27:19] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:27:19] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:27:49] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:27:49] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:27:49] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:27:49] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:28:19] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:28:19] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:28:19] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:28:19] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:28:49] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:28:49] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:28:50] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:28:50] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:29:20] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:29:20] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:29:20] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:29:20] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:29:50] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:29:50] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:29:51] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:29:51] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:30:21] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:30:21] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:30:21] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:30:21] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:30:51] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:30:51] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:30:51] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:30:51] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:31:21] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:31:21] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:31:22] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:31:22] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:31:52] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:31:52] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:31:53] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:31:53] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:32:23] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:32:23] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:32:23] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:32:23] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:32:53] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:32:53] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:32:53] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:32:53] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:33:23] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:33:23] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:33:24] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:33:24] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:33:54] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:33:54] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:33:55] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:33:55] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:34:25] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:34:25] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:34:25] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:34:25] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:34:55] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:34:55] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:34:55] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:34:55] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:35:25] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:35:25] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:35:26] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:35:26] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:35:56] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:35:56] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:35:56] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:35:56] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:36:26] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:36:26] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:36:27] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:36:27] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:36:57] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:36:57] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:36:58] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:36:58] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:37:28] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:37:28] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:37:28] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:37:28] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:37:58] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:37:58] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:37:59] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:37:59] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:38:29] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:38:29] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:38:29] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:38:29] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:38:59] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:38:59] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:39:00] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:39:00] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:39:30] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:39:30] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:39:30] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:39:30] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:40:00] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:40:00] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:40:00] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:40:00] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:40:30] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:40:30] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:40:31] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:40:31] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:41:01] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:41:01] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:41:02] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:41:02] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:41:32] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:41:32] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:41:32] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:41:32] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:42:02] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:42:02] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:42:02] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:42:02] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:42:32] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:42:32] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:42:33] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:42:33] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:43:03] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:43:03] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:43:03] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:43:03] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:43:33] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:43:33] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:43:34] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:43:34] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:44:04] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:44:05] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:44:05] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:44:05] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:44:35] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:44:35] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:44:35] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:44:35] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:45:05] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:45:05] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:45:06] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:45:06] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:45:36] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:45:36] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:45:36] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:45:36] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:46:06] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:46:07] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:46:07] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:46:07] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:46:37] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:46:37] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:46:38] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:46:38] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:47:08] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:47:08] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:47:08] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:47:08] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:47:38] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:47:38] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:47:39] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:47:39] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:48:09] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:48:09] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:48:09] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:48:09] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:48:39] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:48:39] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:48:40] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:48:40] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:49:10] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:49:10] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:49:10] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:49:10] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:49:40] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:49:40] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:49:41] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:49:41] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:50:11] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:50:11] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:50:11] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:50:11] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:50:41] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:50:41] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:50:42] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:50:42] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:51:12] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:51:12] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:51:12] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:51:12] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:51:42] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:51:42] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:51:43] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:51:43] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:52:13] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:52:13] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:52:13] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:52:13] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:52:43] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:52:43] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:52:44] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:52:44] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:53:14] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:53:14] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:53:14] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:53:14] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:53:44] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:53:44] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:53:45] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:53:45] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:54:15] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:54:15] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:54:16] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:54:16] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:54:46] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:54:46] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:54:46] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:54:46] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:55:16] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:55:16] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:55:17] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:55:17] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:55:47] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:55:47] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:55:48] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:55:48] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:56:18] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:56:18] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:56:18] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:56:18] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:56:48] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:56:48] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:56:49] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:56:49] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:57:19] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:57:19] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:57:19] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:57:19] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:57:49] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:57:49] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:57:50] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:57:50] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:58:20] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:58:20] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:58:20] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:58:20] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:58:50] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:58:50] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:58:50] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:58:50] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:59:20] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:59:20] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:59:21] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:59:21] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 14:59:51] [INFO] [LOOP] New loop iteration started
+[2026-01-30 14:59:51] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 14:59:51] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 14:59:51] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 15:00:21] [INFO] [LOOP] New loop iteration started
+[2026-01-30 15:00:21] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 15:00:21] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 15:00:21] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 15:00:51] [INFO] [LOOP] New loop iteration started
+[2026-01-30 15:00:51] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 15:00:52] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 15:00:52] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 15:01:22] [INFO] [LOOP] New loop iteration started
+[2026-01-30 15:01:22] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 15:01:22] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 15:01:22] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 15:01:52] [INFO] [LOOP] New loop iteration started
+[2026-01-30 15:01:52] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 15:01:53] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 15:01:53] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 15:02:23] [INFO] [LOOP] New loop iteration started
+[2026-01-30 15:02:23] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 15:02:23] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 15:02:23] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 15:02:53] [INFO] [LOOP] New loop iteration started
+[2026-01-30 15:02:53] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 15:02:53] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 15:02:53] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 15:03:23] [INFO] [LOOP] New loop iteration started
+[2026-01-30 15:03:23] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 15:03:24] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 15:03:24] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 15:03:54] [INFO] [LOOP] New loop iteration started
+[2026-01-30 15:03:54] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 15:03:54] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 15:03:54] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 15:04:24] [INFO] [LOOP] New loop iteration started
+[2026-01-30 15:04:24] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 15:04:25] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 15:04:25] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 15:04:55] [INFO] [LOOP] New loop iteration started
+[2026-01-30 15:04:55] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 15:04:55] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 15:04:55] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 15:05:16] [INFO] [START] Algo started in PAPER mode
+[2026-01-30 15:05:16] [INFO] [LOOP] New loop iteration started
+[2026-01-30 15:05:16] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 15:05:17] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 15:05:17] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 15:05:47] [INFO] [LOOP] New loop iteration started
+[2026-01-30 15:05:47] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 15:05:47] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 15:05:47] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 15:06:17] [INFO] [LOOP] New loop iteration started
+[2026-01-30 15:06:17] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 15:06:18] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 15:06:18] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 15:06:48] [INFO] [LOOP] New loop iteration started
+[2026-01-30 15:06:48] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 15:06:49] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 15:06:49] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 15:07:19] [INFO] [LOOP] New loop iteration started
+[2026-01-30 15:07:19] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 15:07:19] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 15:07:19] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found
+[2026-01-30 15:07:49] [INFO] [LOOP] New loop iteration started
+[2026-01-30 15:07:49] [INFO] [MARKET] Market status checked
+    DATA: {'status': 'MARKET_OPEN'}
+[2026-01-30 15:07:50] [INFO] [DATA] ✔ PASS: Index candles available
+    DATA: {'rows': 7875}
+[2026-01-30 15:07:50] [WARN] [STRATEGY] ✖ FAIL: Valid option setup found

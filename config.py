@@ -41,6 +41,11 @@ WINDOW_2_END   = datetime.time(14, 30)
 # ===== SCHEDULER =====
 CHECK_INTERVAL_SECONDS = 30
 
+# ===== STRATEGY TUNING (TEMP / TESTING) =====
+
+MIN_BODY_PERCENT = 0.4     # candle body strength (was 0.6)
+VOL_MULTIPLIER = 1.0       # volume / volatility filter (was 1.2)
+
 # ===== FORCE EXIT =====
 FORCE_EXIT = datetime.time(15, 15)
 

@@ -64,3 +64,17 @@ def get_status():
             "status": "ERROR",
             "message": str(e)
         }
+    
+@app.get("/ltp")
+def get_ltp():
+    from upstox_api_client import get_option_ltp
+
+    try:
+        # NIFTY index LTP
+        ltp = get_option_ltp("NSE_INDEX|Nifty 50")
+        return {
+            "ltp": float(ltp),
+            "time": int(datetime.now().timestamp())
+        }
+    except Exception as e:
+        return {"error": str(e)}

@@ -1,0 +1,852 @@
+{"time": "2026-01-30 13:17:15", "level": "INFO", "step": "START", "message": "Algo started in PAPER mode", "data": null}
+{"time": "2026-01-30 13:17:15", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:17:15", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:17:16", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:17:16", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:17:46", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:17:46", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:17:46", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:17:46", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:18:16", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:18:16", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:18:17", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:18:17", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:18:47", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:18:47", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:18:47", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:18:47", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:19:17", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:19:17", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:19:17", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:19:17", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:19:47", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:19:47", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:19:47", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:19:47", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:20:17", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:20:17", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:20:17", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:20:17", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:20:47", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:20:47", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:20:48", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:20:48", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:21:18", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:21:18", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:21:18", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:21:18", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:21:48", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:21:48", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:21:48", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:21:48", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:22:15", "level": "INFO", "step": "START", "message": "Algo started in PAPER mode", "data": null}
+{"time": "2026-01-30 13:22:15", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:22:15", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:22:16", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 8250}}
+{"time": "2026-01-30 13:22:16", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:22:46", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:22:46", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:22:46", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 8250}}
+{"time": "2026-01-30 13:22:46", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:23:16", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:23:16", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:23:17", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 8250}}
+{"time": "2026-01-30 13:23:17", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:23:47", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:23:47", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:23:47", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 8250}}
+{"time": "2026-01-30 13:23:47", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:24:17", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:24:17", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:24:17", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 8250}}
+{"time": "2026-01-30 13:24:17", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:24:47", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:24:47", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:24:47", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 8250}}
+{"time": "2026-01-30 13:24:47", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:25:17", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:25:17", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:25:17", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 8250}}
+{"time": "2026-01-30 13:25:17", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:25:47", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:25:47", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:25:48", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 8250}}
+{"time": "2026-01-30 13:25:48", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:26:18", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:26:18", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:26:18", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 8250}}
+{"time": "2026-01-30 13:26:18", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:26:48", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:26:48", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:26:48", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 8250}}
+{"time": "2026-01-30 13:26:49", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:27:19", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:27:19", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:27:19", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 8250}}
+{"time": "2026-01-30 13:27:19", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:28:56", "level": "INFO", "step": "START", "message": "Algo started in PAPER mode", "data": null}
+{"time": "2026-01-30 13:28:56", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:28:56", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:28:57", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:28:57", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:29:27", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:29:27", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:29:27", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:29:27", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:29:57", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:29:57", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:29:58", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:29:58", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:30:28", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:30:28", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:30:28", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:30:28", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:33:27", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:33:27", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:33:28", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:33:28", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:33:58", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:33:58", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:33:58", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:33:58", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:34:28", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:34:28", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:34:28", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:34:28", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:34:58", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:34:58", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:34:59", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:34:59", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:35:29", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:35:29", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:35:29", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:35:29", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:35:59", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:35:59", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:36:00", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:36:00", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:36:30", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:36:30", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:36:31", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:36:31", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:37:01", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:37:01", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:37:01", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:37:01", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:37:31", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:37:31", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:37:31", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:37:31", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:38:01", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:38:01", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:38:02", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:38:02", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:38:32", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:38:32", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:38:32", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:38:32", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:39:02", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:39:02", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:39:03", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:39:03", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:39:33", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:39:33", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:39:34", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:39:34", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:40:04", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:40:04", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:40:04", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:40:04", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:40:34", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:40:34", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:40:35", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:40:35", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:41:05", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:41:05", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:41:05", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:41:05", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:41:35", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:41:35", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:41:36", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:41:36", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:42:06", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:42:06", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:42:06", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:42:06", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:42:36", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:42:36", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:42:37", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:42:37", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:43:07", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:43:07", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:43:08", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:43:08", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:43:38", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:43:38", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:43:38", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:43:38", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:44:08", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:44:08", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:44:09", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:44:09", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:44:39", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:44:39", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:44:39", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:44:39", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:45:09", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:45:09", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:45:09", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:45:09", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:45:39", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:45:39", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:45:40", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:45:40", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:46:10", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:46:10", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:46:10", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:46:10", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:46:40", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:46:40", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:46:41", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:46:41", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:47:11", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:47:11", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:47:12", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:47:12", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:47:42", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:47:42", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:47:42", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:47:42", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:48:12", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:48:12", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:48:13", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:48:13", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:48:43", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:48:43", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:48:43", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:48:43", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:49:13", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:49:13", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:49:14", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:49:14", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:49:44", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:49:44", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:49:44", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:49:44", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:50:14", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:50:14", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:50:15", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:50:15", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:50:45", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:50:45", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:50:45", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:50:45", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:51:15", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:51:15", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:51:16", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:51:16", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:51:46", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:51:46", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:51:47", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:51:47", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:52:17", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:52:17", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:52:17", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:52:17", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:52:47", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:52:47", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:52:47", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:52:47", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:53:17", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:53:17", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:53:18", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:53:18", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:53:48", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:53:48", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:53:49", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:53:49", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:54:19", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:54:19", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:54:19", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:54:19", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:54:49", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:54:49", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:54:49", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:54:49", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:55:19", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:55:19", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:55:20", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:55:20", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:55:50", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:55:50", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:55:50", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:55:50", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:56:20", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:56:20", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:56:21", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:56:21", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:56:51", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:56:51", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:56:51", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:56:51", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:57:21", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:57:21", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:57:21", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:57:21", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:57:51", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:57:51", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:57:52", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:57:52", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:58:22", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:58:22", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:58:22", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:58:22", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:58:52", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:58:52", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:58:53", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:58:53", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:59:23", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:59:23", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:59:23", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:59:23", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 13:59:53", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 13:59:53", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 13:59:54", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 13:59:54", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:00:24", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:00:24", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:00:24", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:00:24", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:00:54", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:00:54", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:00:55", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:00:55", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:01:25", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:01:25", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:01:25", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:01:25", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:01:55", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:01:55", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:01:55", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:01:55", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:02:25", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:02:25", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:02:26", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:02:26", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:02:56", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:02:56", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:02:56", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:02:56", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:03:26", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:03:26", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:03:27", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:03:27", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:03:57", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:03:57", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:03:58", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:03:58", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:04:28", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:04:28", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:04:28", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:04:28", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:04:58", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:04:58", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:04:59", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:04:59", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:05:29", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:05:29", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:05:29", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:05:29", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:05:59", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:05:59", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:06:00", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:06:00", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:06:30", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:06:30", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:06:31", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:06:31", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:07:01", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:07:01", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:07:01", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:07:01", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:07:31", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:07:31", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:07:32", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:07:32", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:08:02", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:08:02", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:08:02", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:08:02", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:08:32", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:08:32", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:08:32", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:08:32", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:09:02", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:09:02", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:09:03", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:09:03", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:09:33", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:09:33", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:09:33", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:09:33", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:10:03", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:10:03", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:10:03", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:10:03", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:10:33", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:10:33", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:10:34", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:10:34", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:11:04", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:11:04", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:11:04", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:11:04", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:11:34", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:11:34", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:11:35", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:11:35", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:12:05", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:12:05", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:12:05", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:12:05", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:12:35", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:12:35", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:12:36", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:12:36", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:13:06", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:13:06", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:13:06", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:13:06", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:13:36", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:13:36", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:13:37", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:13:37", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:14:07", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:14:07", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:14:07", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:14:07", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:14:37", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:14:37", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:14:37", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:14:37", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:15:07", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:15:07", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:15:08", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:15:08", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:15:38", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:15:38", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:15:38", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:15:38", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:16:08", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:16:08", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:16:08", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:16:08", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:16:38", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:16:38", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:16:39", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:16:39", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:17:09", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:17:09", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:17:09", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:17:09", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:17:39", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:17:39", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:17:40", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:17:40", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:18:10", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:18:10", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:18:10", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:18:10", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:18:40", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:18:40", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:18:40", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:18:40", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:19:10", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:19:10", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:19:11", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:19:11", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:19:41", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:19:41", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:19:42", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:19:42", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:20:12", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:20:12", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:20:12", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:20:12", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:20:42", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:20:42", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:20:43", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:20:43", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:21:13", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:21:13", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:21:13", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:21:13", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:21:43", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:21:43", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:21:43", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:21:43", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:22:13", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:22:13", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:22:14", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:22:14", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:22:44", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:22:44", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:22:44", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:22:44", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:23:14", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:23:14", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:23:15", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:23:15", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:23:45", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:23:45", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:23:45", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:23:45", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:24:15", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:24:15", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:24:16", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:24:16", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:24:46", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:24:46", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:24:46", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:24:46", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:25:16", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:25:16", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:25:17", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:25:17", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:25:47", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:25:47", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:25:47", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:25:47", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:26:17", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:26:17", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:26:18", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:26:18", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:26:48", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:26:48", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:26:48", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:26:48", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:27:18", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:27:18", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:27:19", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:27:19", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:27:49", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:27:49", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:27:49", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:27:49", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:28:19", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:28:19", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:28:19", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:28:19", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:28:49", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:28:49", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:28:50", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:28:50", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:29:20", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:29:20", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:29:20", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:29:20", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:29:50", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:29:50", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:29:51", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:29:51", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:30:21", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:30:21", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:30:21", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:30:21", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:30:51", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:30:51", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:30:51", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:30:51", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:31:21", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:31:21", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:31:22", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:31:22", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:31:52", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:31:52", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:31:53", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:31:53", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:32:23", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:32:23", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:32:23", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:32:23", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:32:53", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:32:53", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:32:53", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:32:53", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:33:23", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:33:23", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:33:24", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:33:24", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:33:54", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:33:54", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:33:55", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:33:55", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:34:25", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:34:25", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:34:25", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:34:25", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:34:55", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:34:55", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:34:55", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:34:55", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:35:25", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:35:25", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:35:26", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:35:26", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:35:56", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:35:56", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:35:56", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:35:56", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:36:26", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:36:26", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:36:27", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:36:27", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:36:57", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:36:57", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:36:58", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:36:58", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:37:28", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:37:28", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:37:28", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:37:28", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:37:58", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:37:58", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:37:59", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:37:59", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:38:29", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:38:29", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:38:29", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:38:29", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:38:59", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:38:59", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:39:00", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:39:00", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:39:30", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:39:30", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:39:30", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:39:30", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:40:00", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:40:00", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:40:00", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:40:00", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:40:30", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:40:30", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:40:31", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:40:31", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:41:01", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:41:01", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:41:02", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:41:02", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:41:32", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:41:32", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:41:32", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:41:32", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:42:02", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:42:02", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:42:02", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:42:02", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:42:32", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:42:32", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:42:33", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:42:33", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:43:03", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:43:03", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:43:03", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:43:03", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:43:33", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:43:33", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:43:34", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:43:34", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:44:04", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:44:05", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:44:05", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:44:05", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:44:35", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:44:35", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:44:35", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:44:35", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:45:05", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:45:05", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:45:06", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:45:06", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:45:36", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:45:36", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:45:36", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:45:36", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:46:06", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:46:07", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:46:07", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:46:07", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:46:37", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:46:37", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:46:38", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:46:38", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:47:08", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:47:08", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:47:08", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:47:08", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:47:38", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:47:38", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:47:39", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:47:39", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:48:09", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:48:09", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:48:09", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:48:09", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:48:39", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:48:39", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:48:40", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:48:40", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:49:10", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:49:10", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:49:10", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:49:10", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:49:40", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:49:40", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:49:41", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:49:41", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:50:11", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:50:11", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:50:11", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:50:11", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:50:41", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:50:41", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:50:42", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:50:42", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:51:12", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:51:12", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:51:12", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:51:12", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:51:42", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:51:42", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:51:43", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:51:43", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:52:13", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:52:13", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:52:13", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:52:13", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:52:43", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:52:43", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:52:44", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:52:44", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:53:14", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:53:14", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:53:14", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:53:14", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:53:44", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:53:44", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:53:45", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:53:45", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:54:15", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:54:15", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:54:16", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:54:16", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:54:46", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:54:46", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:54:46", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:54:46", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:55:16", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:55:16", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:55:17", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:55:17", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:55:47", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:55:47", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:55:48", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:55:48", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:56:18", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:56:18", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:56:18", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:56:18", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:56:48", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:56:48", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:56:49", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:56:49", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:57:19", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:57:19", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:57:19", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:57:19", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:57:49", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:57:49", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:57:50", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:57:50", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:58:20", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:58:20", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:58:20", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:58:20", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:58:50", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:58:50", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:58:50", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:58:50", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:59:20", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:59:20", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:59:21", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:59:21", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 14:59:51", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 14:59:51", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 14:59:51", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 14:59:51", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 15:00:21", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 15:00:21", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 15:00:21", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 15:00:21", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 15:00:51", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 15:00:51", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 15:00:52", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 15:00:52", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 15:01:22", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 15:01:22", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 15:01:22", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 15:01:22", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 15:01:52", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 15:01:52", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 15:01:53", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 15:01:53", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 15:02:23", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 15:02:23", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 15:02:23", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 15:02:23", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 15:02:53", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 15:02:53", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 15:02:53", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 15:02:53", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 15:03:23", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 15:03:23", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 15:03:24", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 15:03:24", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 15:03:54", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 15:03:54", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 15:03:54", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 15:03:54", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 15:04:24", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 15:04:24", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 15:04:25", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 15:04:25", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 15:04:55", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 15:04:55", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 15:04:55", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 15:04:55", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 15:05:16", "level": "INFO", "step": "START", "message": "Algo started in PAPER mode", "data": null}
+{"time": "2026-01-30 15:05:16", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 15:05:16", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 15:05:17", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 15:05:17", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 15:05:47", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 15:05:47", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 15:05:47", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 15:05:47", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 15:06:17", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 15:06:17", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 15:06:18", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 15:06:18", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 15:06:48", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 15:06:48", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 15:06:49", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 15:06:49", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 15:07:19", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 15:07:19", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 15:07:19", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 15:07:19", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}
+{"time": "2026-01-30 15:07:49", "level": "INFO", "step": "LOOP", "message": "New loop iteration started", "data": null}
+{"time": "2026-01-30 15:07:49", "level": "INFO", "step": "MARKET", "message": "Market status checked", "data": {"status": "MARKET_OPEN"}}
+{"time": "2026-01-30 15:07:50", "level": "INFO", "step": "DATA", "message": "\u2714 PASS: Index candles available", "data": {"rows": 7875}}
+{"time": "2026-01-30 15:07:50", "level": "WARN", "step": "STRATEGY", "message": "\u2716 FAIL: Valid option setup found", "data": null}

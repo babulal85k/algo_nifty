@@ -26,6 +26,7 @@
     }
   </style>
 </head>
+
 <body>
 
 <header>
@@ -38,6 +39,7 @@
 /* =========================
    CHART INIT (v4 SAFE)
 ========================= */
+
 const chart = LightweightCharts.createChart(
   document.getElementById("chart"),
   {
@@ -76,10 +78,12 @@ const targetLine = chart.addSeries(LightweightCharts.LineSeries, {
 });
 
 let candleCache = [];
+let initialized = false;
 
 /* =========================
-   SAFE HELPERS
+   HELPERS
 ========================= */
+
 function drawHorizontal(series, price) {
   if (
     price === null ||
@@ -101,8 +105,9 @@ function drawHorizontal(series, price) {
 }
 
 /* =========================
-   LOAD CANDLES
+   LOAD CANDLES (SAFE)
 ========================= */
+
 async function loadCandles() {
   try {
     const res = await fetch("http://127.0.0.1:8000/candles");
@@ -120,8 +125,22 @@ async function loadCandles() {
       )
       .sort((a, b) => a.time - b.time);
 
-    candleCache = clean;
-    candleSeries.setData(clean);
+    if (!initialized) {
+      candleSeries.setData(clean);
+      candleCache = clean;
+      initialized = true;
+      return;
+    }
+
+    const lastTime = candleCache[candleCache.length - 1]?.time;
+
+    for (const c of clean) {
+      if (c.time > lastTime) {
+        candleSeries.update(c);
+        candleCache.push(c);
+      }
+    }
+
   } catch (e) {
     console.error("Candle error:", e);
   }
@@ -130,6 +149,7 @@ async function loadCandles() {
 /* =========================
    LOAD STATUS
 ========================= */
+
 async function loadStatus() {
   try {
     const res = await fetch("http://127.0.0.1:8000/status");
@@ -147,21 +167,54 @@ async function loadStatus() {
       slLine.setData([]);
       targetLine.setData([]);
     }
+
   } catch (e) {
     console.error("Status error:", e);
   }
 }
 
+const ltpLine = chart.addSeries(
+  LightweightCharts.LineSeries,
+  {
+    color: "#38bdf8",
+    lineWidth: 2,
+    lineStyle: LightweightCharts.LineStyle.Dotted,
+  }
+);
+
+
+let lastLtpTime = null;
+
+async function loadLTP() {
+  try {
+    const res = await fetch("http://127.0.0.1:8000/ltp");
+    const data = await res.json();
+
+    if (!data.ltp || !isFinite(data.ltp)) return;
+    if (!candleCache.length) return;
+
+    const lastCandleTime = candleCache[candleCache.length - 1].time;
+
+    ltpLine.setData([
+      { time: lastCandleTime, value: data.ltp }
+    ]);
+
+  } catch (e) {
+    console.error("LTP error:", e);
+  }
+}
+
+
+
 /* =========================
    REFRESH LOOP
 ========================= */
-async function refresh() {
-  await loadCandles();
-  await loadStatus();
-}
 
-refresh();
-setInterval(refresh, 5000);
+setInterval(() => {
+  loadCandles();
+  loadStatus();
+}, 3000);
+
 </script>
 
 </body>

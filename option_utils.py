@@ -1,100 +1,49 @@
 import math
-import datetime
-
-
-def round_to_atm(price):
-    return int(round(price / 50) * 50)
-
-
-def get_current_week_expiry():
-    """
-    Returns weekly expiry in Upstox format: YYMON
-    Example: 24JAN
-    """
-    today = datetime.date.today()
-    days_to_thursday = (3 - today.weekday()) % 7
-    expiry_date = today + datetime.timedelta(days=days_to_thursday)
-    return expiry_date.strftime("%y%b").upper()
-
-
-def passes_volatility_filter(df, config):
-    df = df.copy()
-
-    df["range"] = df["high"] - df["low"]
-    avg_range = df["range"].tail(config.VOL_LOOKBACK).mean()
-    current_range = df.iloc[-1]["range"]
-
-    if current_range < config.MIN_CANDLE_RANGE:
-        return False
-
-    if current_range < avg_range * config.VOL_MULTIPLIER:
-        return False
-
-    return True
-
-
-def passes_momentum_filter(df, direction, config):
-    last = df.iloc[-1]
-
-    body = abs(last["close"] - last["open"])
-    candle_range = last["high"] - last["low"]
-
-    if candle_range == 0:
-        return False
-
-    body_ratio = body / candle_range
-
-    if body_ratio < config.MIN_BODY_PERCENT:
-        return False
-
-    if direction == "CE" and last["close"] <= last["open"]:
-        return False
-
-    if direction == "PE" and last["close"] >= last["open"]:
-        return False
-
-    return True
-
-
-def decide_direction(df):
-    df = df.copy()
-    df["ema20"] = df["close"].ewm(span=20).mean()
-    last = df.iloc[-1]
-
-    if last["close"] > last["ema20"] and last["close"] > last["open"]:
-        return "CE"
-
-    if last["close"] < last["ema20"] and last["close"] < last["open"]:
-        return "PE"
-
-    return None
 
 
 def select_option(df, config):
-    direction = decide_direction(df)
-    if not direction:
+    """
+    Simple momentum-based option selector
+    Returns dict or None
+    """
+
+    if df is None or len(df) < 3:
         return None
 
-    if not passes_volatility_filter(df, config):
+    last = df.iloc[-1]
+
+    open_p = float(last["open"])
+    close_p = float(last["close"])
+    high_p = float(last["high"])
+    low_p = float(last["low"])
+
+    body = abs(close_p - open_p)
+    candle_range = max(high_p - low_p, 0.01)
+    body_percent = body / candle_range
+
+    # ❌ Weak candle
+    if body_percent < config.MIN_BODY_PERCENT:
         return None
 
-    if not passes_momentum_filter(df, direction, config):
-        return None
+    # Direction
+    if close_p > open_p:
+        option_type = "CE"
+    else:
+        option_type = "PE"
 
-    nifty_price = df.iloc[-1]["close"]
-    strike = round_to_atm(nifty_price)
-
-    # Placeholder for sizing (real LTP fetched later)
-    option_price = 100.0
+    # Strike rounding (nearest 50)
+    strike = int(round(close_p / 50) * 50)
 
     return {
-        "symbol": "NIFTY",
         "strike": strike,
-        "option_type": direction,
-        "price": option_price
+        "option_type": option_type,
+        "price": max(body * 2, 10)  # mock premium
     }
 
 
 def build_option_key(strike, option_type):
-    expiry = get_current_week_expiry()
+    """
+    Build Upstox-style option key
+    """
+    expiry = "26FEB"  # change later dynamically
     return f"NSE_FO|NIFTY{expiry}{strike}{option_type}"
